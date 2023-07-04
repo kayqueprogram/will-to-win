@@ -74,6 +74,14 @@ body {
     margin-left: .89rem;
   }
   
+  .logo {
+    border-radius: 50%;
+    width: 50px;
+  }
+
+  .logo img:hover {
+    cursor: pointer
+  }
   
   /* Featrurezinhas
   ------------------------- */
