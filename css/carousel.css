@@ -76,11 +76,12 @@ body {
   
   .logo {
     border-radius: 50%;
+    cursor: pointer;
     width: 50px;
   }
 
-  .logo img:hover {
-    cursor: pointer
+  .logo img {
+    
   }
   
   /* Featrurezinhas
