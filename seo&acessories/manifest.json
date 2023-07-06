@@ -1,7 +1,7 @@
 {
     "name": "Grêmio Estudantil - Vontade de Vencer",
     "short_name": "Vontade de Vencer",
-    "start_url": "/",
+    "start_url": "./",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#005580",
@@ -16,6 +16,12 @@
         "src": "https://cdn.discordapp.com/attachments/1098057370728403115/1125223999023108117/vontade_de_vencer.jpg",
         "sizes": "512x512",
         "type": "image/png"
+      },
+      {
+        "src": "https://cdn.discordapp.com/attachments/1098057370728403115/1125223999023108117/vontade_de_vencer.jpg",
+        "sizes": "196x196",
+        "type": "image/png",
+        "purpose": "any maskable"
       }
     ],
     "related_applications": [],
