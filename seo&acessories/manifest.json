@@ -8,17 +8,17 @@
     "description": "O Grêmio Estudantil Vontade de Vencer é uma organização dedicada a promover o envolvimento estudantil e criar um ambiente inclusivo na escola.",
     "icons": [
       {
-        "src": "https://cdn.discordapp.com/attachments/1098057370728403115/1125223999023108117/vontade_de_vencer.jpg",
+        "src": "seo&acessories/vontadeDeVencer.png",
         "sizes": "192x192",
         "type": "image/png"
       },
       {
-        "src": "https://cdn.discordapp.com/attachments/1098057370728403115/1125223999023108117/vontade_de_vencer.jpg",
+        "src": "seo&acessories/vontadeDeVencer.png",
         "sizes": "512x512",
         "type": "image/png"
       },
       {
-        "src": "https://cdn.discordapp.com/attachments/1098057370728403115/1125223999023108117/vontade_de_vencer.jpg",
+        "src": "seo&acessories/vontadeDeVencer.png",
         "sizes": "196x196",
         "type": "image/png",
         "purpose": "any maskable"
